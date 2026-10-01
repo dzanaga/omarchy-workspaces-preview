@@ -1,0 +1,9 @@
+{
+  "previewMode": "auto",
+  "labelMode": "apps",
+  "showOnAllMonitors": true,
+  "reorderEnabled": true,
+  "showEmptyWorkspaces": true,
+  "cardScale": 1.0,
+  "shortcut": "SUPER + ESCAPE"
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.dzanaga.workspaces-preview",
+  "name": "Workspaces Preview",
+  "version": "1.0.0",
+  "author": "dzanaga",
+  "description": "Mission Control-style overview of workspaces 1-10 with cached window previews, app labels, monitor badges, and drag-to-reorder.",
+  "kinds": [
+    "overlay"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "overlay": "WorkspacesPreview.qml"
+  }
+}
